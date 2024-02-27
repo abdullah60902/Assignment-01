@@ -1,0 +1,105 @@
+*{margin: 0%;
+  padding: 0%;
+  box-sizing: border-box;
+  }
+  .borderimg{
+    width: 100%;
+  }.center{
+    text-align: center;
+    margin-top: 20px;
+  }.paradiv{
+    margin-top: 20px;
+  }.you{
+   margin-top: 5px; 
+  }.imgdisplay{
+    display: flex;
+    align-items: center;
+    margin-left: 200px;
+    justify-content: center;
+    margin-top: 25px;
+    
+    
+  }.dd2{
+    display: flex;
+    align-items: center;
+  
+  
+    
+  }.imgst{
+    width: 30px;
+    height: 30px;
+    margin-left: 10px;
+  }.db{
+    margin-left: 250px;
+    margin-top: 5px;
+  }.mainm{
+    margin-left: 10px;
+    
+    margin-top: 20px;
+    display: flex;
+  }.img5{
+    width: 300px;
+    height: 250px;
+    
+  }
+  .headst{
+    margin-top: 10px;
+  }
+  
+  .paramain{
+    margin-left: 5px;
+  }.para{
+    margin-top: 10px;
+  }.img6{
+    width: 340px;
+    height: 150px;
+  margin-left: 80px;
+    
+  
+    
+  }.pp{
+    margin-right: 60px;
+  }
+  
+  
+  .down{
+    margin-top: 10px;
+    margin-left: 80px
+    
+   }.po{
+    margin-right: 10px;
+  }.mainul{
+    display: flex;
+    margin-top: 40px;
+  
+  }.mrleft{
+    margin-left: 60px;
+  
+  }.mrleft2{
+    margin-left: 450px;
+  }.ol{
+    margin-left: 490px;
+  }.c{
+    align-items: center;
+    text-align: center;
+    margin-left: 650px;
+    margin-right: 800px;
+    margin-top: 20px;
+    
+  }.ce{
+    text-align: center;
+    margin-top: 40px;
+  }.input0{
+  width: 350px;
+  }.mrinput{
+    margin-right:200px ;
+  
+  }.rty{
+    display: flex;
+    align-items: center;
+  }.bro{
+    margin-left: 5px;
+  }.year{
+    margin-left:5px;
+  }
+  
